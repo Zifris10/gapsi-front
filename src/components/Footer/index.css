@@ -1,0 +1,10 @@
+.footer {
+  margin-bottom: 16px;
+  background-color: #f6f6f6;
+  padding: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row-reverse;
+}
